@@ -36,7 +36,7 @@ Fixed Yt search
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git
-$ git clone https://github.com/febzofc/bot-wa
+$ git clone https://github.com/nadjieb08/wabot
 $ cd zyrobotv1
 $ bash install.sh
 
@@ -59,7 +59,7 @@ $ npm i -g
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/febzofc/bot-wa
+> git clone https://github.com/nadjieb08/wabot
 > cd zyrobotv1
 > wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 > npm i -g
